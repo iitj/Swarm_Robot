@@ -1,4 +1,4 @@
-//This code detects the color red in the iamge
+//This code detects the color red in the image
 //This uses the function InRangeS()
 //The thresholds given in this code are very sensitive
 //They have been arrived at purely by luck and this program is now only capable of tracking very specifically colored red objects
